@@ -1,5 +1,5 @@
 # udacity--Project-3-Where-AM-I
-This project “Where Am I” is to build and implement AMCL localization package on robot as a part of the course Robotics Software Engineer Nanodegree Program.
+This project “Where Am I” is to build and implement AMCL localization package on robot as a part of the project in Robotics Software Engineer Nanodegree Program.
 
 
 ## Overview  
